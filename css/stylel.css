@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.imagelogo{
+    cursor: pointer;
+}
+
+main{
+    margin: auto;
+    background-color: rgba(61, 61, 61, 0.171);
+    max-width: 1000px;
+    height: 700px;
+    padding-top: 50px;
+    border: 1px solid #2fff4b;
+}
+
+body{
+    background-color: black;
+    background-image: url();
+    background-size: cover;
+}
+
+.tag-p{
+    color: #2fff4b;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+video{
+    display: block;
+    margin: auto;
+    max-height: 450px;
+    min-width: 990px;
+    outline: none;
+}
+
+
